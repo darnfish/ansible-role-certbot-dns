@@ -1,4 +1,5 @@
 ---
 - src: geerlingguy.git
 - src: geerlingguy.nginx
-- src: geerlingguy.certbot
+# - src: geerlingguy.certbot
+- src: git+git@github.com:darnfish/ansible-role-certbot.git
